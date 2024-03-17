@@ -1,4 +1,4 @@
-class Student  extends course{
+class Student  extends Course{
     String name;
     String usn;
     String dept;
