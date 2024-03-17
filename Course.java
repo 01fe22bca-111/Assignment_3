@@ -1,4 +1,4 @@
- class course   {
+ class Course   {
     String[] Course = {"Machine_learning","Software_testing","C_Sharp","Devops"};
     float[] marks = {88,25,32,66};
 
